@@ -18,7 +18,7 @@ public class ToastUtil {
 	    private static int LENGTH_SHORT = Toast.LENGTH_SHORT;  
 	      
 	    /** 
-	     * 普通文本消息提示 （居中）
+	     * 普通文本消息提示 
 	     * @param context 
 	     * @param text 
 	     * @param duration 
