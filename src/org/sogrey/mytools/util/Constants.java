@@ -147,6 +147,12 @@ public class Constants {
 	public final static String PATH_SDCARD= Environment
 			.getExternalStorageDirectory().getPath();
 	/**
+	 * 更新文件夹保存路径<br>
+	 * "/liren/update/"
+	 */
+	public static final String UPDATE_PATH= PATH_SDCARD+
+			"/liren/update/";
+	/**
 	 * 缓存图片文件夹保存路径<br>
 	 * "/liren/lxpractice/camera/"
 	 */
